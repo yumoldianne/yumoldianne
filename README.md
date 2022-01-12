@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yumoldianne
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @yumoldianne.
+- 👀 I’m interested in web development, machine learning, and data science in general.
+- 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
