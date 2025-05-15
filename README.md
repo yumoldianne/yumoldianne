@@ -5,4 +5,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 💡 About me
-Data enthusiast interested in (urban, economic, etc.) development, mobility, AI research, currently (self) studying: ML and spatial econometrics
+Data enthusiast interested in (urban, economic, etc.) development, mobility, AI research, currently (self) studying: machine learning, neural networks, and econometrics
