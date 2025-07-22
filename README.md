@@ -5,4 +5,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 💡 About me
-Data enthusiast interested in (urban, economic, etc.) development, policy, AI research
+Data enthusiast interested in development, policy, AI research
