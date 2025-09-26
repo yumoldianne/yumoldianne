@@ -5,4 +5,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 💡 About me
-Data enthusiast interested in development, policy, AI research. When I’m not analyzing data, you’ll probably find me playing video games. 
+Data enthusiast interested in development, policy, business strategy. When I’m not analyzing data, you’ll probably find me playing video games. 
