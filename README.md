@@ -4,4 +4,6 @@ yumoldianne/yumoldianne is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-☀️ tiramisu lover, data for development, policy, and business strategy
+☀️ loves a good tiramisu, data for development, policy, and business strategy
+
+Interests: econometrics, urban transport, and astronomy
