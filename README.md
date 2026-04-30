@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 
 ☀️ loves a good tiramisu, data for development, policy, and business strategy
 
-Interests: econometrics, urban transport, and astronomy
+💡 interests: urban informatics and data sovereignty
